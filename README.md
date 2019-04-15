@@ -1,4 +1,4 @@
-# app
+# Sample Code based on Pure VueJS
 
 ## Project setup
 ```
